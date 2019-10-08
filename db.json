@@ -1,0 +1,8 @@
+[
+  {
+    "name": "something",
+    "message": "msg regarding",
+    "status": true,
+    "error": "error stuff"
+  }
+]
